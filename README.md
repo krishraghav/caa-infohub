@@ -30,6 +30,8 @@ Know Your Rights
 
 Read the EFF's [Surveillance Self Defense Guide](https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition)
 
+
+
 # 😷 Protest Advisories
 
 If you are hit by tear gas, remember the following (via Sarah Jeong):
@@ -41,3 +43,5 @@ If you are hit by tear gas, remember the following (via Sarah Jeong):
 - Try to keep calm, and regulate your breathing. Keep an eye out for anyone having an asthma attack.
 - Walk briskly, don't run. Running increases your rate of respiration, & also your chances of injury to self & others.
 - Carry basic first-aid and water 
+
+
